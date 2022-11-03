@@ -2,6 +2,8 @@
 
 👽 A Web3 Dapp made using Next.js, React, Polygon, Ifps and valist: Use case, a fun UI to mint a magical NFT: Contracts deployed on Polygon mainnet using third webs UI 👽
 
+Live link = https://earnweb3-bounty-uint1.vercel.app/
+
 ## Getting Started
 
 - Wanna use the project? Clone this repository and run `npm install` to install all dependencies.
